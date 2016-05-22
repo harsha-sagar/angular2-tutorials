@@ -4,3 +4,5 @@
 /app/*.map
 /app/home/*.js
 /app/home/*.map
+/app/products/*.js
+/app/products/*.map
