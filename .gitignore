@@ -6,3 +6,5 @@
 /app/home/*.map
 /app/products/*.js
 /app/products/*.map
+/app/shared/*.js
+/app/shared/*.map
