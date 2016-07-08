@@ -1,3 +1,3 @@
-Tech stack - 
-a. Nodejs
-b. Angular2 (using typescript)
+> Tech stack - 
+* Nodejs
+* Angular2 (using typescript)
