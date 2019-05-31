@@ -1,6 +1,6 @@
-### tech stack -  
+### Tech stack -  
 nodejs, angular2 (typescript)  
 
-### useful -  
-convers basic functionality, min knowledge to start with angular2  
-different branches corresponds to play around with specific feature  
+### Summary -  
+Covers basics to start with Angular2  
+Different branches corresponds to play around with different features of Angular2
