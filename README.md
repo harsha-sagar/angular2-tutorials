@@ -1,3 +1,3 @@
 ### Summary -  
-Covers basics to start with Angular2  
-Different branches corresponds to play around with different features of Angular2
+- Playing around concepts of Angular2.
+- Different branches corresponds to different concepts learnt & concerned examples.
